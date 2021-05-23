@@ -18,11 +18,39 @@
       name: '',
       repo: '',
       subMaxLevel: 1,
+      search: {
+        depth: 3,
+        noData: 'Sin Resultados',
+        placeholder: 'Buscar...'
+      },
+      themeable: {
+        readyTransition: true,
+        responsiveTables: true
+      },
+      'flexible-alerts': {
+        style: 'callout',
+        note: {
+          label: "Nota"
+        },
+        tip: {
+          label: "Tip"
+        },
+        warning: {
+          label: "Alerta"
+        },
+        attention: {
+          label: "Atención"
+        }
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
 </body>
 
 </html>
