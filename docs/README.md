@@ -2,6 +2,8 @@
 
 Historial de versiones de SamitApps
 
+
+
 ## Version 1.0.0.81 
 Fecha: 21 de Mayo 2021
 
@@ -19,7 +21,7 @@ Fecha: 21 de Mayo 2021
     > - No se recomienda subir el tamaño por encima de 8.5
     > - Los tamaños 7.5 y 8.0 son los más indicados para la factura
 
-- Nuevo menu "Listar Documentos" agregado.
+- Se agrega menu **"Listar Documentos"** en el modulo de **Contabilidad**.
 
 ### ✔️ Errores Arreglados
 
