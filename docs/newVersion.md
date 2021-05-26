@@ -11,4 +11,4 @@ Fecha: 25 de Mayo 2021
 
 ### 🔨 Mejoras Aplicadas
 
-- item
+- Se ajusto reporte de comprobantes de egreso, se retira la cuenta de la cadecera del reporte
