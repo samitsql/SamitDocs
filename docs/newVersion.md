@@ -12,3 +12,7 @@ Fecha: 25 de Mayo 2021
 ### 🔨 Mejoras Aplicadas
 
 - Se ajusto reporte de comprobantes de egreso, se retira la cuenta de la cadecera del reporte
+- Se ajusto informe de estados de resultado
+    > [!NOTE]
+    > - Antes se aprecaba diferencia en los saldos cuendo las cuentas no tenian la naturaleza bien definida
+    > - Ahora se ignora la naturaleza de la cuenta para hacer los calculos

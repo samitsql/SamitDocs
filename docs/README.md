@@ -2,7 +2,25 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.82
+Fecha: 27 de Mayo 2021
 
+### ✨ Nuevas Funcionalidades
+
+- Se agregan los menus **"Resumen de Iva"** y **"Resumen de Retenciones"** en el modulo de **Contabilidad**.
+
+### ✔️ Errores Arreglados
+
+- Se arregla error de tercero repedito en la tabla de terceros al hacer un cierre parcial 
+
+### 🔨 Mejoras Aplicadas
+
+- Se ajusto reporte de comprobantes de egreso, se retira la cuenta de la cabecera del reporte
+- Se ajusto consulta de informe de estado de resultados
+    > [!NOTE]
+    > - Antes se apreciaba diferencia en los saldos cuando las cuentas no tenian la naturaleza bien definida
+    > - Ahora se ignora la naturaleza de la cuenta para hacer los calculos
+- Mejoras visuales en la grilla del estado de resultados
 
 ## Version 1.0.0.81 
 Fecha: 21 de Mayo 2021
