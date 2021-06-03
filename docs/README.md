@@ -2,7 +2,7 @@
 
 Historial de versiones de SamitApps
 
-## Version 1.0.0.83
+## Version 1.0.0.84
 Fecha: 03 de Junio 2021
 
 ### ✨ Nuevas Funcionalidades
