@@ -2,6 +2,29 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.83
+Fecha: 03 de Junio 2021
+
+### ✨ Nuevas Funcionalidades
+
+- Se agregan los menus de **"Cierre Definitivo"** y **"Consulta de Cierres"** en el modulo de **Contabilidad**.
+    > [!NOTE]
+    > - Si se quiere hacer nuevamente el Cierre Definitivo se debe anular el Cierre Definitivo VIGENTE
+    > - Para anular un Cierre Definitivo se debe hacer desde el menu de **"Consulta de Cierres"**
+    > - Tampoco se podran hacer Cierres Parciales despues de hacer un Cierre Definitivo
+- Se agrega menu de **"Mantenimiento de Contabilidad"** en el modulo de **Contabilidad**.
+
+### ✔️ Errores Arreglados
+
+- Se corrige calculo de Saldo Anterior al escoger un solo día en los auxiliares de cuentas.
+- Se ajusto el guardado en las fechas de los documentos de contabilidad para evitar incoherencias de fecha.
+
+### 🔨 Mejoras Aplicadas
+
+- Se mejora la validacion de numero de comprobante en el guardado de documentos de inventario para evitar advertencia de prefijos repetidos. 
+- Se agregan bloqueos de contabilidad _(Ingreso de comprobantes, contabilizacion de facturas, etc...)_ cuando se hace un Cierre Definitivo.
+- Los documentos que hacen parte de un Cierre Definitivo ya no se pueden editar, anular o recuperar en ningun caso.
+
 ## Version 1.0.0.82
 Fecha: 27 de Mayo 2021
 
