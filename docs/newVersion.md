@@ -1,5 +1,5 @@
-## Version 1.0.0.82
-Fecha: 25 de Mayo 2021
+## Version 1.0.0.86
+Fecha: 00 de Junio 2021
 
 ### ✨ Nuevas Funcionalidades
 
@@ -7,7 +7,7 @@ Fecha: 25 de Mayo 2021
 
 ### ✔️ Errores Arreglados
 
-- Se arregla error en la tabla de terceros al hacer un cierre parcial 
+- Se corrige validación al agregar un movimiento sin "Documento de Cruce" con cuenta que detalla en el menu **"Ingreso de Comprobantes"**.
 
 ### 🔨 Mejoras Aplicadas
 
