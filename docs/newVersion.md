@@ -1,11 +1,16 @@
-## Version 1.0.0.86
-Fecha: 17 de Junio 2021
+## Version 1.0.0.87
+Fecha: 18 de Junio 2021
+
+### ✨ Nuevas Funcionalidades
+
+- Se agrega menu **"Mantenimiento de Documentos"** en el modulo de **Inventario**.
 
 ### ✔️ Errores Arreglados
 
-- Se corrige validación al agregar un movimiento sin "Documento de Cruce" con cuenta que detalla en el menu **"Ingreso de Comprobantes"**.
-- Se corrige error de validación de resolución de facturación en compras y devoluciones. 
+- Se corrige error al crear un auxiliar a una cuenta contable en menu **"Creación y Administración de Cuentas"**.
 
 ### 🔨 Mejoras Aplicadas
 
-- Mejoras en la grilla en el menu **"Balance de Prueba con Tercero"**.
+- Se agrega columna de establecimiento en la consulta de auxiliares.
+- Se agrega procedimiento almacenado para re-contabilizar todos los documentos de inventario.
+- Se agrega opción para eliminar una cuenta en menu **"Creación y Administración de Cuentas"**.
