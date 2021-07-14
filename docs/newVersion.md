@@ -1,5 +1,5 @@
 ## Version 1.0.0.88
-Fecha: 10 de Julio 2021
+Fecha: 14 de Julio 2021
 
 ### ✨ Nuevas Funcionalidades
 
@@ -17,17 +17,19 @@ Fecha: 10 de Julio 2021
     > En este menu puede ver las Facturas y Devoluciones electrónicas que se han generado.
     > En la grilla se muestran indicadores de color para saber que documentos no se enviaron correctamente a la DIAN o que tienen error al subir los adjuntos.
     > También puede filtrar para ver solo los documentos con errores.
-- Se agrego menu **"Crear Productos Individualizados"** en el modulo de **"Facturación"**.
-    > [!ATTENTION]
-    > Actualmente se pueden facturar productos marcados como servicios **(Servicios Individualizados)**, en una proxima actualización se incluirán los Productos que manejan existencia.
 
 ### ✔️ Errores Arreglados
 
-- Se corrige error al agregar campos a productos individualizados en el menu **"Creación y Administración de Cuentas"**.
-- Se corrige error, ahora se carga el comentario de una orden al editarla.
+- Se corrige error al agregar campos a productos individualizados en el menu **"Creación de Productos Individualizados"**.
+- Se corrige error en el menu de cotizaciones, ahora se carga el comentario de una orden al editarla.
+- Se agrega validación en el SamitBúsqueda para evitar error por palabras repetidas.
+- Se ajustan los menus de centros de costos y grupos de centros de costos.
+- Se corrige error al abrir menu de **"Conceptos y Tipos de Retención"**.
+- Se corrige error al guardar un concepto de retención. 
 
 ### 🔨 Mejoras Aplicadas
 
 - Mejoras en el copiado de datos desde la grilla de SAMIT, se agrego un menu contextual para el copiado.
 - Se mejoro el diseño del menu **"Definición de Comprobantes"** y se mejoro la velocidad al abrir este menu.
 - Se agrega opción de importación de terceros en el menu **"Informe de Terceros"** en el modulo **"General"**.
+- Se creó un elemento visual para indicar de forma interactiva las convenciones de las grillas.
