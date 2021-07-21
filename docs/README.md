@@ -8,6 +8,10 @@ Fecha: 21 de Julio 2021
 ### 🔨 Mejoras Aplicadas
 
 - Se agrega validación de licencia para los clientes de SamitCloud.
+    > [!NOTE]
+    > - Este cambio solo aplica para los clientes que usan la version de SamitCloud.
+    > - Se agrega el campo para ingresar el código de la licencia en el menu **"Datos de la empresa"**.
+    > - Si no tiene asignada una licencia de SamitCloud, se le notificara al usuario con una notificación al iniciar sesión y se le habilitara unicamente el modulo General.
 
 ## Version 1.0.0.91
 Fecha: 17 de Julio 2021
@@ -31,17 +35,17 @@ Fecha: 14 de Julio 2021
 - Se agrega funcionalidad **"Exogena"** en el modulo de **"Contabilidad"**.
 - Se agrega funcionalidad **"Facturación Recurrente"** en el modulo de **"Facturación"**.
     > [!NOTE]
-    > Se pueden crear los planes por el menu **"Creación de Planes"**, los planes son los que se le asignan a los clientes por medio de las suscripciones.
-    > Para asignar un plan a aun cliente y crear la suscripción se hace por el menu **"Asignar Planes a Clientes"**.
-    > En el momento que desee hacer los cobros periódicos a los clientes puede ingresar al menu **"Liquidar suscripciones de clientes"**.
-    > Puede asignar planes a un establecimiento de un cliente si asi lo desea.
+    > - Se pueden crear los planes por el menu **"Creación de Planes"**, los planes son los que se le asignan a los clientes por medio de las suscripciones.
+    > - Para asignar un plan a aun cliente y crear la suscripción se hace por el menu **"Asignar Planes a Clientes"**.
+    > - En el momento que desee hacer los cobros periódicos a los clientes puede ingresar al menu **"Liquidar suscripciones de clientes"**.
+    > - Puede asignar planes a un establecimiento de un cliente si asi lo desea.
 - Se agrego informe financiero **"Flujo de Efectivo"** en el modulo de **"Contabilidad"**.
 - Se agrego menu **"Notas a los Estados Financieros"** en el modulo de **"Contabilidad"**.
 - Se agrego menu **"Consulta Documentos Electrónicos"** en el modulo de **"Facturación"**.
     > [!NOTE]
-    > En este menu puede ver las Facturas y Devoluciones electrónicas que se han generado.
-    > En la grilla se muestran indicadores de color para saber que documentos no se enviaron correctamente a la DIAN o que tienen error al subir los adjuntos.
-    > También puede filtrar para ver solo los documentos con errores.
+    > - En este menu puede ver las Facturas y Devoluciones electrónicas que se han generado.
+    > - En la grilla se muestran indicadores de color para saber que documentos no se enviaron correctamente a la DIAN o que tienen error al subir los adjuntos.
+    > - También puede filtrar para ver solo los documentos con errores.
 
 ### ✔️ Errores Arreglados
 
@@ -67,8 +71,7 @@ Fecha: 18 de Junio 2021
 - Se corrige error al crear un auxiliar a una cuenta contable en menu **"Creación y Administración de Cuentas"**.
 - Ya no se valida como obligatorio la base en las cuentas que manejan retención o iva en el menu **"Ingreso de Comprobantes"**.
     > [!NOTE]
-    > Es recomendable cuando el comprobante que se ingresa tiene retención en 0, dejar la base por el valor correspondiente y en el valor del movimiento dejar 0.
-    > De esta forma queda el registro de la retención que no se realizo y se puede evidenciar en el certificado de retención.
+    > Es recomendable cuando el comprobante que se ingresa tiene retención en 0, dejar la base por el valor correspondiente y en el valor del movimiento dejar 0, de esta forma queda el registro de la retención que no se realizo y se puede evidenciar en el certificado de retención.
 - Se cambio el comportamiento en el informe diario de ventas en el doble-click de un item, ya no se cierra el popup de los movimientos.
 - Validación de unidades de medidas inactivas en la creación del producto.
 - Validación al imprimir documentos cuando la impresora seleccionada no esta instalada en el sistema.
