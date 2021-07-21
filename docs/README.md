@@ -2,6 +2,13 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.93
+Fecha: 21 de Julio 2021
+
+### 🔨 Mejoras Aplicadas
+
+- Se agrega validación de licencia para los clientes de SamitCloud.
+
 ## Version 1.0.0.91
 Fecha: 17 de Julio 2021
 
