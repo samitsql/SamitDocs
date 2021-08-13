@@ -2,6 +2,18 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.96
+Fecha: 13 de Agosto 2021
+
+### ✨ Nuevas Funcionalidades
+
+- Nuevo Informe de rentabilidad.
+
+### 🔨 Mejoras Aplicadas
+
+- Se mejora las planillas de cotizaciones y el formato por defecto.
+- Mejoras en los reportes e informes de cartera.
+
 ## Version 1.0.0.93
 Fecha: 21 de Julio 2021
 
