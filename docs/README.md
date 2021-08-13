@@ -7,7 +7,7 @@ Fecha: 13 de Agosto 2021
 
 ### ✨ Nuevas Funcionalidades
 
-- Nuevo Informe de rentabilidad.
+- Nuevo Informe de rentabilidad en el modulo de **"Inventario"**.
 
 ### 🔨 Mejoras Aplicadas
 
