@@ -2,6 +2,16 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.97
+Fecha: 14 de Agosto 2021
+
+### 🔨 Mejoras Aplicadas
+
+- Se agrega las referencias de los productos en el reporte de la cotización.
+- Se agrega los comentarios de los productos en el reporte de la cotización.
+- Se agrega el asunto de la cotización en el reporte de la cotización.
+- Se agrega el comentario de la cotización en el reporte de la cotización.
+
 ## Version 1.0.0.96
 Fecha: 13 de Agosto 2021
 
