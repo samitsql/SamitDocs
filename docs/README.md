@@ -2,7 +2,7 @@
 
 Historial de versiones de SamitApps
 
-## Version 1.0.0.98
+## Version 1.0.0.99
 Fecha: 20 de Agosto 2021
 
 ### 🔨 Mejoras Aplicadas
@@ -10,6 +10,11 @@ Fecha: 20 de Agosto 2021
 - Se agrega control de establecimientos te terceros en las cotizaciones.
 - Se muestran los datos del establecimiento en el reporte de la cotización.
 - Se modificaron todas las consultas de cuentas por cobrar y pagar para diferenciar fácilmente la cartera vencida de la no vencida.
+
+### ✔️ Errores Arreglados
+
+- Se corrige error de dias de mora en las consultas de cuentas por cobrar y pagar.
+- Se corrige error de que no se actualiza el numero del documento de cruce en el ingreso de comprobantes.
 
 ## Version 1.0.0.97
 Fecha: 14 de Agosto 2021
