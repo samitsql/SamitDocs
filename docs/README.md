@@ -2,6 +2,10 @@
 
 Historial de versiones de SamitApps
 
+## Version 2.0.0.0
+Fecha: 24 de Agosto 2021
+(Version de compatibilidad con nuevo servidor de actualizaciones)
+
 ## Version 1.0.0.101
 Fecha: 24 de Agosto 2021
 (Cambio de servidor de actualizaciones)
