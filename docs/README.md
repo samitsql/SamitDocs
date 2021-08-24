@@ -2,6 +2,19 @@
 
 Historial de versiones de SamitApps
 
+## Version 1.0.0.100
+Fecha: 24 de Agosto 2021
+(Cambio de servidor de actualizaciones)
+
+### 🔨 Mejoras Aplicadas
+
+- Se agrega compatibilidad con archivos PDF para los adjuntos en el ingreso de comprobantes.
+
+### ✔️ Errores Arreglados
+
+- Se agrega validación de si al cliente se le factura iva o no dependiendo de la configuración del tercero.
+- Se Cambia la búsqueda de productos.
+
 ## Version 1.0.0.99
 Fecha: 20 de Agosto 2021
 
